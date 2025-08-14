@@ -1,0 +1,3 @@
+aws_region  = "region_name"
+aws_ec2_ami = "ami_id" # Ubuntu Server 24.04 LTS 
+aws_key     = "ec2_access_key"
